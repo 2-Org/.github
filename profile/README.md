@@ -1,5 +1,5 @@
-# 2-Org
+# two-project
 
-Welcome to 2-Org
+Welcome to two-project
 
-[2-org.github.io](https://2-org.github.io)
+[two-project.github.io](https://two-project.github.io)
